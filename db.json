@@ -156,3 +156,205 @@
         "detailed_text": ""
     }]
 }
+
+
+
+Collapse 
+Today
+new messages
+
+Vahan3:00 PM
+Taza datana carderi
+dummy_data.json 
+{
+  "channels": [
+    {
+      "id": "1",
+      "user_id": "1",
+      "date": "13/08/2018",
+      "title": "Sirius",
+      "description": "Sirius is a star system and the brightest star in the Earth's night sky. With a visual apparent magnitude of −1.46, it is almost twice as bright as Canopus, the next brightest star.",
+      "image": "",
+      "music": "",
+      "video": "",
+      "detailed_text": "",
+      "lat": 40.169714,
+      "lng": 44.3722252
+    },
+    {
+      "id": "2",
+      "user_id": "1",
+      "date": "13/08/2018",
+      "title": "Vega",
+      "description": "Vega, also designated Alpha Lyrae, is the brightest star in the constellation of Lyra, the fifth-brightest star in the night sky, and the second-brightest star in the northern celestial hemisphere, after Arcturus.",
+      "image": "",
+      "music": "",
+      "video": "",
+      "detailed_text": "",
+      "lat": 40.1958279,
+      "lng": 44.4200018
+    },
+    {
+      "id": "3",
+      "user_id": "1",
+      "date": "13/08/2018",
+      "title": "Betelgeuse",
+      "description": "Betelgeuse, also designated Alpha Orionis, is the ninth-brightest star in the night sky and second-brightest in the constellation of Orion.",
+      "image": "",
+      "music": "",
+      "video": "",
+      "detailed_text": "",
+      "lat": 40.3783451,
+      "lng": 44.5017726
+    },
+    {
+      "id": "4",
+      "user_id": "1",
+      "date": "13/08/2018",
+      "title": "Algol",
+      "description": "Algol, designated Beta Persei, known colloquially as the Demon Star, is a bright multiple star in the constellation of Perseus and one of the first non-nova variable stars to be discovered.",
+      "image": "",
+      "music": "",
+      "video": "",
+      "detailed_text": "",
+      "lat": 40.4586196,
+      "lng": 44.3758051
+    },
+    {
+      "id": "5",
+      "user_id": "1",
+      "date": "13/08/2018",
+      "title": "Arcturus",
+      "description": "Arcturus, also designated Alpha Boötis, is the brightest star in the constellation of Boötes, the fourth-brightest in the night sky, and the brightest in the northern celestial hemisphere.",
+      "image": "",
+      "music": "",
+      "video": "",
+      "detailed_text": "",
+      "lat": 40.1018022,
+      "lng": 44.4152687
+    },
+    {
+      "id": "6",
+      "user_id": "1",
+      "date": "13/08/2018",
+      "title": "Aldebaran",
+      "description": "Aldebaran, designated Alpha Tauri, is an orange giant star located about 65 light-years from the Sun in the zodiac constellation of Taurus.",
+      "image": "",
+      "music": "",
+      "video": "",
+      "detailed_text": "",
+      "lat": 40.0663491,
+      "lng": 44.3764392
+    },
+    {
+      "id": "6",
+      "user_id": "1",
+      "date": "13/08/2018",
+      "title": "Polaris",
+      "description": "Polaris, designated Alpha Ursae Minoris, commonly the North Star or Pole Star, is the brightest star in the constellation of Ursa Minor. It is very close to the north celestial pole, making it the current northern pole star.",
+      "image": "",
+      "music": "",
+      "video": "",
+      "detailed_text": "",
+      "lat": 40.0071732,
+      "lng": 44.4007546
+    }
+  ],
+  "contents": [
+    {
+      "id": "1",
+      "user_id": "1",
+      "date": "13/08/2018",
+      "title": "Sirius",
+      "description": "Sirius is a star system and the brightest star in the Earth's night sky. With a visual apparent magnitude of −1.46, it is almost twice as bright as Canopus, the next brightest star.",
+      "image": "",
+      "music": "",
+      "video": "",
+      "detailed_text": "",
+      "lat": 40.0111002,
+      "lng": 44.3321635
+    },
+    {
+      "id": "2",
+      "user_id": "1",
+      "date": "13/08/2018",
+      "title": "Vega",
+      "description": "Vega, also designated Alpha Lyrae, is the brightest star in the constellation of Lyra, the fifth-brightest star in the night sky, and the second-brightest star in the northern celestial hemisphere, after Arcturus.",
+      "image": "",
+      "music": "",
+      "video": "",
+      "detailed_text": "",
+      "lat": 40.3479486,
+      "lng": 44.4827539
+    },
+    {
+      "id": "3",
+      "user_id": "1",
+      "date": "13/08/2018",
+      "title": "Betelgeuse",
+      "description": "Betelgeuse, also designated Alpha Orionis, is the ninth-brightest star in the night sky and second-brightest in the constellation of Orion.",
+      "image": "",
+      "music": "",
+      "video": "",
+      "detailed_text": "",
+      "lat": 40.4000136,
+      "lng": 44.4220452
+    },
+    {
+      "id": "4",
+      "user_id": "1",
+      "date": "13/08/2018",
+      "title": "Algol",
+      "description": "Algol, designated Beta Persei, known colloquially as the Demon Star, is a bright multiple star in the constellation of Perseus and one of the first non-nova variable stars to be discovered.",
+      "image": "",
+      "music": "",
+      "video": "",
+      "detailed_text": "",
+      "lat": 40.2418264,
+      "lng": 44.3039733
+    },
+    {
+      "id": "5",
+      "user_id": "1",
+      "date": "13/08/2018",
+      "title": "Arcturus",
+      "description": "Arcturus, also designated Alpha Boötis, is the brightest star in the constellation of Boötes, the fourth-brightest in the night sky, and the brightest in the northern celestial hemisphere.",
+      "image": "",
+      "music": "",
+      "video": "",
+      "detailed_text": "",
+      "lat": 40.4963748,
+      "lng": 44.5284627
+    },
+    {
+      "id": "6",
+      "user_id": "1",
+      "date": "13/08/2018",
+      "title": "Aldebaran",
+      "description": "Aldebaran, designated Alpha Tauri, is an orange giant star located about 65 light-years from the Sun in the zodiac constellation of Taurus.",
+      "image": "",
+      "music": "",
+      "video": "",
+      "detailed_text": "",
+      "lat": 40.0982049,
+      "lng": 44.4500656
+    },
+    {
+      "id": "6",
+      "user_id": "1",
+      "date": "13/08/2018",
+      "title": "Polaris",
+      "description": "Polaris, designated Alpha Ursae Minoris, commonly the North Star or Pole Star, is the brightest star in the constellation of Ursa Minor. It is very close to the north celestial pole, making it the current northern pole star.",
+      "image": "",
+      "music": "",
+      "video": "",
+      "detailed_text": "",
+      "lat": 40.1928084,
+      "lng": 44.3234164
+    }
+  ]
+}
+
+
+
+Collapse 
