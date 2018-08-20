@@ -1,0 +1,9 @@
+{
+  "data": {
+    "id": "1",
+    "lastName": "john",
+    "firstName": "smith",
+    "type": "content-owner",
+    "profPic": "/img/userpic.jpg"
+  }
+}

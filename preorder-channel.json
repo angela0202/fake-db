@@ -1,0 +1,37 @@
+{
+  "preorder": [
+    {
+      "id": "1",
+      "buyer": {
+        "id": "1",
+        "lastName": "john",
+        "firstName": "smith",
+        "type": "content-owner",
+        "profPic": "/img/userpic.jpg"
+      },
+      "price": "1200",
+      "unit": {
+        "id": "1",
+        "value": "view(s)"
+      },
+      "channel": {
+        "id": "1",
+        "user_id": "1",
+        "date": "13/08/2018",
+        "title": "Sirius",
+        "briefDescription":
+          "Sirius is a star system and the brightest star in the Earth's night sky. With a visual apparent magnitude of −1.46, it is almost twice as bright as Canopus, the next brightest star.",
+        "image":
+          "https://wallpaperbrowse.com/media/images/HD-Wallpapers1_FOSmVKg_FpmuGEs.jpeg",
+        "price": "1200",
+        "tags": ["Jazz", "Rock", "House", "Classic Rock"],
+        "unit": "Like",
+        "perUnit": "10",
+        "detailed_text":
+          "Sirius appears bright because of its intrinsic luminosity and its proximity to Earth. At a distance of 2.6 parsecs (8.6 ly), as determined by the Hipparcos astrometry satellite, the Sirius system is one of Earth's near neighbours. Sirius is gradually moving closer to the Solar System, so it will slightly increase in brightness over the next 60,000 years. After that time its distance will begin to increase and it will become fainter, but it will continue to be the brightest star in the Earth's night sky for the next 210,000 years.Sirius A is about twice as massive as the Sun (M☉) and has an absolute visual magnitude of +1.42. It is 25 times more luminous than the Sun but has a significantly lower luminosity than other bright stars such as Canopus or Rigel. The system is between 200 and 300 million years old.[12] It was originally composed of two bright bluish stars. The more massive of these, Sirius B, consumed its resources and became a red giant before shedding its outer layers and collapsing into its current state as a white dwarf around 120 million years ago.",
+        "lat": 40.169714,
+        "lng": 44.3722252
+      }
+    }
+  ]
+}

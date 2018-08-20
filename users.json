@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "data": {
+        "id": "1",
+        "lastName": "John",
+        "firstName": "Smith",
+        "type": "content-owner",
+        "profPic": "/img/userpic.jpg"
+      }
+    },
+    {
+      "data": {
+        "id": "2",
+        "lastName": "Sherlock",
+        "firstName": "Holmes",
+        "type": "content-owner",
+        "profPic": "/img/userpic.jpg"
+      }
+    },
+    {
+      "data": {
+        "id": "3",
+        "lastName": "Jane",
+        "firstName": "Black",
+        "type": "content-owner",
+        "profPic": "/img/userpic.jpg"
+      }
+    },
+  ]
+}
